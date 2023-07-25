@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="398" viewBox="0 0 1440 398"><script xmlns=""/>
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#1BB6C1"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+        <linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#1BB6C1"/>
+            <stop offset="100%" stop-color="#F9FAFC"/>
+        </linearGradient>
+        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="106.942%">
+            <stop offset="0%" stop-color="#3A4A59"/>
+            <stop offset="100%" stop-color="#3A4A59" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="d" x1="50%" x2="50.002%" y1="0%" y2="106.942%">
+            <stop offset="0%" stop-color="#3A4A59"/>
+            <stop offset="100%" stop-color="#3A4A59" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="e" x1="50%" x2="50.001%" y1="0%" y2="106.942%">
+            <stop offset="0%" stop-color="#3A4A59"/>
+            <stop offset="100%" stop-color="#3A4A59" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-115)">
+        <path fill="url(#a)" d="M1695 282c-55.009-15.718-102.92-45.592-143.737-89.622-61.224-66.045-85.452-81.855-124.169-81.855-38.716 0-75.446 24.616-108.377 55.177-32.932 30.562-68.345 45.926-102.457 45.926-34.112 0-85.262-14.776-120.955-35.99-35.693-21.216-93.056-39.426-145.098-39.426-52.043 0-103.29 8.177-180.898 51.586-77.607 43.409-106.808 47.23-142.764 47.23-35.955 0-99.412-18.394-168.7-124.503C388.555 4.413 347.073 0 327.006 0c-21.944 0-63.245 1.403-106.922 77.496C176.406 153.59 108.407 275.52 0 282h1695z" opacity=".216" transform="translate(0 116)"/>
+        <path fill="url(#b)" d="M0 254h1439c-27.47-4.518-48.27-21.25-62.4-50.194-21.195-43.417-55.524-127.955-119.796-127.955s-82.904 44.957-92.87 59.231c-9.968 14.274-39.95 39.312-64.996 39.312-25.046 0-45.863-12.818-54.865-22.454-9.003-9.636-20.157-21.032-45.164-21.032-25.008 0-41.81 14.69-51.71 34.017-9.9 19.327-34.478 44.317-62.79 44.317-28.312 0-40.498-19.228-57.038-66.12C810.83 96.231 789.326 0 725.27 0c-64.056 0-86.99 84.13-95.293 100.02-8.304 15.89-28.971 79.108-67.08 79.108-38.108 0-58.5-49.81-65.974-68.545-7.474-18.736-26.925-72.71-68.193-72.71-41.267 0-56.736 54.503-65.919 83.605-9.183 29.103-19.236 66.027-81.062 66.027-61.825 0-67.913-38.066-133.23-38.066-65.318 0-64.602 47.723-89.623 69.933C42.216 234.18 22.583 245.722 0 254z" opacity=".096" transform="translate(116 124)"/>
+        <path stroke="#1BB6C1" stroke-width="3" d="M115 378c47.057-18.56 88.044-53.838 122.96-105.83 52.375-77.99 73.101-96.659 106.222-96.659 33.12 0 64.54 29.068 92.712 65.156 28.172 36.089 58.466 54.231 87.648 54.231 29.181 0 72.938-17.448 103.471-42.5 30.534-25.05 79.606-46.554 124.126-46.554 44.52 0 88.36 9.655 154.75 60.915s91.37 55.771 122.128 55.771c30.759 0 85.043-21.72 144.317-147.019C1232.607 50.212 1268.094 45 1285.26 45c18.773 0 54.104 1.657 91.468 91.512C1414.092 226.366 1472.262 370.348 1565 378" opacity=".499"/>
+        <path stroke="url(#c)" stroke-dasharray="0,6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1290 45v333" opacity=".121"/>
+        <circle cx="1290" cy="45" r="5" fill="#1BB6C1"/>
+        <circle cx="1290" cy="45" r="17" fill="#1BB6C1" opacity=".054"/>
+        <circle cx="1290" cy="45" r="30" fill="#1BB6C1" opacity=".054"/>
+        <circle cx="1290" cy="45" r="45" fill="#1BB6C1" opacity=".054"/>
+        <path stroke="url(#d)" stroke-dasharray="0,6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M848 228v159" opacity=".121"/>
+        <circle cx="848" cy="228" r="5" fill="#FD913C"/>
+        <circle cx="848" cy="228" r="17" fill="#FD913C" opacity=".054"/>
+        <circle cx="848" cy="228" r="30" fill="#FD913C" opacity=".054"/>
+        <circle cx="848" cy="228" r="45" fill="#FD913C" opacity=".054"/>
+        <path stroke="url(#e)" stroke-dasharray="0,6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M343 176v196" opacity=".121"/>
+        <circle cx="343" cy="176" r="17" fill="#1BB6C1" opacity=".054"/>
+        <circle cx="343" cy="176" r="30" fill="#1BB6C1" opacity=".054"/>
+        <circle cx="343" cy="176" r="45" fill="#1BB6C1" opacity=".054"/>
+        <circle cx="343" cy="176" r="5" fill="#1BB6C1"/>
+    </g>
+</svg>
